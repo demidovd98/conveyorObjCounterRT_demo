@@ -1,8 +1,17 @@
-How to install PyQT_5 library:
+Description:
+- todo
+
+
+
+
+
+________________________
+For further development:
+
+I. How to install PyQT_5 library:
 
 Requirements:
-- Python 3
-- Windows OS
+- Python 3.8 >=
 
 Steps:
 1) Open CMD
