@@ -1,8 +1,24 @@
+________________________
 Description:
-- todo
+
+Real-time counting objects on the conveyor belt, made with Python code.
+
+Libraries used: NumPy, OpenCV, PyQT5, os.
+
+Demo code is available on GitHub: https://github.com/demidovd98/conveyorObjCounterRT_demo
 
 
 
+________________________
+Requirements:
+- Python 3.7 or higher
+- to_add
+
+
+________________________
+Videos of using:
+- https://www.youtube.com/watch?v=pRXxsDlcPG4
+- https://www.youtube.com/watch?v=G564yYj2PzY
 
 
 ________________________
@@ -11,7 +27,7 @@ For further development:
 I. How to install PyQT_5 library:
 
 Requirements:
-- Python 3.8 >=
+- Python 3.7 or higher
 
 Steps:
 1) Open CMD
